@@ -28,7 +28,7 @@ This is an AI-powered chatbot built with **Streamlit** and **Google Gemini API**
 │   ├── requirements.txt  # Dependencies
 │── 📄 README.md          # Documentation
 ```
-
+Try a demo : https://conversationalchatbotprototype.streamlit.app/
 ---
 
 ## **🛠️ Installation**
